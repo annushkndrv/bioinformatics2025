@@ -66353,3 +66353,138 @@ C:/Users/annus
 `-- ãëàâíîå ìåíþ
 
 6805 directories, 59544 files
+    1  ls
+    2  cd ../
+    3  cd ~
+    4  ls
+    5  cat --help
+    6  ls -help
+    7  ls -- help
+    8  ls --help
+    9  ls -s
+   10  ls
+   11  mkdir Bioinformatics_2025
+   12  cd Bioinformatics_2025
+   13  ls
+   14  vim test.txt
+   15  cat --help
+   16  cat test.txt
+   17  cat -n 1
+   18  cat -n 1 test.txt
+   19  mkdir sem_1
+   20  ls
+   21  mv test.txt sem_1
+   22  ls
+   23  ls sem_1
+   24  cd sem_1
+   25  cd ../
+   26  cp sem_1/test.txt /
+   27  mkdir test
+   28  cp sem_1/test.txt test
+   29  cp sem_1/test.txt ./
+   30  ls
+   31  ls test
+   32  rm test.txt
+   33  ls
+   34  rm -r test
+   35  ls
+   36  mkdir to_rename
+   37  ls
+   38  cp -r to_rename renamed 
+   39  ls
+   40  rm -r to_rename
+   41  ls
+   42  vim test.py
+   43  vim test1.py
+   44  python test1.py
+   45  ls
+   46  cd ..
+   47  ls
+   48  git status
+   49  cd Bioinformatics_2025/
+   50  [200~ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+   51  ssh-keygen -t rsa -b 4096 -C "ann.ushkaandreeva2004@gmail.com'
+   52  ssh-keygen -t rsa -b 4096 -C "ann.ushkaandreeva2004@gmail.com"
+   53  ls
+   54  cd 
+   55  ls
+   56  cd /mnt/c
+   57  cd mnt/c
+   58  cd /mnt/C
+   59  cd mnt/C
+   60  cd Â– /c/Users/annus/
+   61  cd /c/Users/annus/
+   62  ls
+   63  ls
+   64  mkdir -p ~/Bioinformatics_2025/hw/hw_1/
+   65  ls
+   66  cd ~/Bioinformatics_2025/hw/hw_1/
+   67  touch my_hw_file.txt
+   68  vim my_hw_file.txt
+   69  mv my_hw_file.txt hw_file_1.txt
+   70  cp hw_file_1.txt ~/homework/
+   71  mkdir ~/homework/
+   72  cp hw_file_1.txt ~/homework/
+   73  rm ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   74  Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+   75  choco install tree
+   76  [200~choco install tree
+   77  choco install tree
+   78  choco install tree
+   79  mkdir -p ~/Bioinformatics_2025/hw/hw_1/
+   80  cd ~/Bioinformatics_2025/hw/hw_1/
+   81  touch my_hw_file.txt
+   82  vim my_hw_file.txt
+   83  mv my_hw_file.txt hw_file_1.txt
+   84  mkdir ~/homework/
+   85  mkdir ~/homework/
+   86  cp hw_file_1.txt ~/homework/
+   87  rm ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   88  tree ~ >> ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   89  cat ~/homework/hw_file_1.txt
+   90  tree ~ >> ~/homework/hw_file_1.txt
+   91  cat ~/homework/hw_file_1.txt
+   92  rm -r  ~/Bioinformatics_2025
+   93  rm -r ~/homework/
+   94  [200~rm -r  ~/Bioinformatics_2025
+   95  rm -r  ~/Bioinformatics_2025/
+   96  mkdir -p ~/Bioinformatics_2025/hw/hw_1/
+   97  cd ~/Bioinformatics_2025/hw/hw_1/
+   98  touch my_hw_file.txt
+   99  vim my_hw_file.txt
+  100  mv my_hw_file.txt hw_file_1.txt
+  101  mkdir ~/homework/
+  102  cp hw_file_1.txt ~/homework/
+  103  rm ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+  104  tree ~ >> ~/homework/hw_file_1.txt
+  105  git clone https://github.com/annushkndrv/bioinformatics2025.git
+  106  cd bioinformatics2025
+  107  git add hw_file_1.txt
+  108  git add ~/homework/hw_file_1.txt
+  109  cd ~/homework/
+  110   git clone https://github.com/annushkndrv/bioinformatics2025.git
+  111  cd bioinformatics2025
+  112   git add hw_file_1.txt
+  113  git add ~\homework\hw_file_1.txt
+  114  mv hw_file_1.txt ~/homework/bioinformatics2025/
+  115  cd ..
+  116   mv hw_file_1.txt ~/homework/bioinformatics2025/
+  117     git add hw_file_1.txt
+  118     
+  119  cd bioinformatics2025
+  120  git add hw_file_1.txt
+  121  git commit -s
+  122  git commit
+  123  [200~   git config --global user.name "Ð’Ð°ÑˆÐµ Ð˜Ð¼Ñ"
+  124     git config --global user.email "Ð²Ð°Ñˆ_Ð°Ð´Ñ€ÐµÑ@example.com"
+  125     
+  126     git config --global user.name "annushkndrv"
+  127     
+  128  git config --global user.email "ann.ushkaandreeva@yandex.ru"
+  129  git commit -s
+  130     git push origin main
+  131     
+  132  git commit - m "meow"
+  133  git commit -m "meow"
+  134  git push origin main
+  135     history >> hw_file_1.txt
